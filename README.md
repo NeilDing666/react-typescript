@@ -64,3 +64,20 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - `yarn run lint`
 - `yarn pretty-quick`
 - `yarn add SomeThing -d/-g` (-d is for develop/-g is for global)
+
+## Alias
+
+Shell is `zsh`.<br>
+- `git=hub`
+- `alias s='git status'`
+- `alias d='git diff'`
+- `alias p='git push'`
+- `alias b='git branch'`
+- `alias co='git checkout'`
+- `alias sync='git sync'`
+- `alias c='git commit -m '`
+- `alias gffs='git flow feature start '`
+
+## Code style tools
+- Eslint
+- Prettier
