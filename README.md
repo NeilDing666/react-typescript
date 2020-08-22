@@ -42,3 +42,25 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Git commands
+
+- `git sync`
+- `git add -u/-A/.` (-u untracked files/-A all changed files/. all files)
+- `git pull`
+- `git push`
+- `git commit -m`
+- `git branch`
+- `git branch -d BranchName`
+- `git checkout BranchName` (Start a new branch or transform into that branch)
+- `git branch -r`
+- `git merge BranchName`
+- `git pull-request`
+
+## Yarn commands
+
+- `yarn start`
+- `yarn install`
+- `yarn run lint`
+- `yarn pretty-quick`
+- `yarn add SomeThing -d/-g` (-d is for develop/-g is for global)
